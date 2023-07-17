@@ -5,7 +5,7 @@
 
 '=====================================================
 ' GET YOUR API KEY: https://openai.com/api/
-Const API_KEY As String = "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"
+Const API_KEY As String = "My API"
 '=====================================================
 
 
